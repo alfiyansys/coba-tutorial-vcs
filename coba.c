@@ -8,5 +8,5 @@ int main(){
 }
 
 void f1(){
-	printf("Ini adalah fungsi F1");
+	printf("Ini adalah fungsi F1\n");
 }
